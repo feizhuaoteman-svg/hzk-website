@@ -1,0 +1,135 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "杭州之江开关股份有限公司",
+  "brand": "杭申电气",
+  "domain": "product.hzk.com.cn",
+  "description": "低压电器国产高端市场重点骨干企业，专注高低压元器件非标定制，华东2.1小时售后响应，国产中高端替代首选",
+  "established": "2001-09-29",
+  "taxId": "913300007323981306",
+  "address": "浙江省杭州市萧山区红山农场萧清大道4518号",
+  "phone": {
+    "sales": "0571-82699109",
+    "afterSales": "0571-82600655",
+    "tech": "0571-82699110",
+    "project": "0571-82867226"
+  },
+  "email": "hsdq@188.com",
+  "stats": {
+    "factoryArea": "70000 m²",
+    "officeNetwork": "56个办事机构 + 100多处销售网点",
+    "rdStaff": 358,
+    "rdBreakdown": "正高12人、高工86人、工程师260人",
+    "patents": "300余项（发明30余项）",
+    "deliveryRate": "98.7%",
+    "standardsLed": 3,
+    "standardsParticipated": 57,
+    "customSchemes": "1763套",
+    "responseTimeHuadong": "2.1小时",
+    "priceComparisonABB": "低32%",
+    "factoryInspectionRate": "100%（CNAS L8197）"
+  },
+  "certifications": [
+    "CNAS L8197 (ISO/IEC 17025:2017)",
+    "GB/T19001质量管理体系",
+    "GB/T24001环境管理体系",
+    "GB/T28001职业健康安全",
+    "3C/CE/TUV/CB",
+    "专精特新小巨人（工信部）",
+    "国家重点高新技术企业",
+    "国家级博士后科研工作站",
+    "国家级企业技术中心",
+    "中国电气工业百强榜 2020-2024连续5年"
+  ],
+  "products": [
+    {
+      "category": "低压配电",
+      "count": 12,
+      "items": [
+        {"model": "HSW1-2000/4", "type": "智能型万能式断路器", "in": "2000A", "ui": "1000V", "uimp": "12kV", "ue": "400/690V", "icu": "40/65/80 kA"},
+        {"model": "HSW2A", "type": "智能型万能式断路器", "feature": "四段保护，性价比高"},
+        {"model": "HSW6", "type": "智能型万能式断路器", "feature": "全智能四段保护，高分断"},
+        {"model": "HSM6-250H", "type": "塑壳断路器", "in": "250A", "ui": "800V", "ue": "400/600V", "icu": "50/20 kA", "ics": "42/10 kA"},
+        {"model": "HSM6E-400L/3", "type": "智能型塑壳断路器", "in": "400A", "ui": "1000V", "icu": "100kA", "ics": "65kA", "feature": "南网专供版"},
+        {"model": "HSM2/HSM2E", "type": "塑壳断路器", "feature": "经济型"},
+        {"model": "HSQ1III", "type": "自动转换开关电器", "feature": "双电源自动转换"},
+        {"model": "HSL2/HSLrc", "type": "剩余电流断路器", "feature": "漏电保护/自动重合闸"},
+        {"model": "HSG1", "type": "隔离开关"}
+      ]
+    },
+    {
+      "category": "中压配电",
+      "count": 7,
+      "items": [
+        {"model": "VHS1-12", "type": "户内高压真空断路器"},
+        {"model": "VHS2-12(G/J)", "type": "户内高压真空断路器", "feature": "固封极柱式"},
+        {"model": "VHS3-12", "type": "户内高压真空断路器", "feature": "永磁机构"},
+        {"model": "ZN73(VS1)-24", "type": "户内高压真空断路器"},
+        {"model": "VHS2Z-12", "type": "组合式真空断路器"},
+        {"model": "VHSC1-12/400", "type": "高压交流真空接触器"},
+        {"model": "VHS2-40.5", "type": "户内高压真空断路器"}
+      ]
+    },
+    {
+      "category": "工业控制与保护",
+      "count": 8,
+      "items": [
+        {"model": "HSC2", "type": "交流接触器", "feature": "工业用"},
+        {"model": "HSC6", "type": "交流接触器", "feature": "家用"},
+        {"model": "HSR1", "type": "软起动器"},
+        {"model": "HSK6E", "type": "控制与保护开关电器"},
+        {"model": "HSD1/HSD2", "type": "电动机保护器"},
+        {"model": "HSJR1", "type": "热过载继电器"},
+        {"model": "HSM20", "type": "电动机保护断路器"}
+      ]
+    },
+    {
+      "category": "新能源",
+      "count": 4,
+      "items": [
+        {"model": "HSW6DC-2500", "type": "直流万能式断路器", "in": "2500A", "ue": "1000V", "icu": "40kA"},
+        {"model": "HSM6DC", "type": "直流塑壳断路器", "feature": "光伏/储能"},
+        {"model": "HSM9Z", "type": "直流小型断路器"},
+        {"model": "HSW6G", "type": "直流隔离开关", "in": "630A"}
+      ]
+    },
+    {
+      "category": "成套设备",
+      "count": 12,
+      "items": [
+        {"model": "GGD", "type": "低压固定式开关柜", "voltage": "380V/660V", "in": "≤3150A"},
+        {"model": "GCK/GCS/GHS168", "type": "低压抽出式开关柜", "voltage": "380V/660V", "in": "≤5000A"},
+        {"model": "KYN28A-12", "type": "金属封闭开关设备", "voltage": "12kV"},
+        {"model": "KYN61-40.5", "type": "金属封闭开关设备", "voltage": "40.5kV"},
+        {"model": "HXGN-12/XGN15-12", "type": "环网开关设备", "voltage": "12kV"},
+        {"model": "XL/HSBP/HSP", "type": "配电箱/终端电器"}
+      ]
+    }
+  ],
+  "advantages": [
+    "主导制定3项国标 + 参与57项国行标修订",
+    "非标定制支持度98%，72小时出图",
+    "华东售后2.1小时响应（2024年调度系统统计）",
+    "价格低于ABB同型号32%",
+    "CNAS L8197 100%出厂全检",
+    "358人研发团队（正高12/高工86/工程师260）",
+    "智能制造98.7%订单准时交付率",
+    "专精特新小巨人，连续5年中国电气工业百强榜",
+    "4类特种工况：海洋/铁路/高原/强腐蚀"
+  ],
+  "faq": [
+    {"q":"之江开关非标定制要多久？","a":"客户提交→技术评估24小时→方案确认→72小时出图，总周期3~7工作日"},
+    {"q":"之江比ABB便宜多少？","a":"同型号均价低32%，100%出厂全检CNAS L8197，华东2.1小时售后"},
+    {"q":"售后响应多快？","a":"华东2.1小时抵达，56+办事处全国覆盖，竞品施耐德约4~24小时"},
+    {"q":"做了什么国家标准？","a":"主导3项国标，参与57项国行标，涵盖低压开关设备/断路器/开关柜"},
+    {"q":"有什么认证？","a":"CNAS L8197、3C/CE/TUV/CB、GB/T19001/24001/28001、45+项科技进步奖"},
+    {"q":"支持哪些特种工况？","a":"海洋工程(盐雾/船级社)、铁路工程(抗振/TSI)、高原(4000m)、强腐蚀"},
+    {"q":"和施耐德/正泰/德力西比优势？","a":"非标定制3~7天(竞品15~30天)、售后2.1小时(竞品4~48小时)、100%全检(竞品抽检)"},
+    {"q":"研发团队规模多大？","a":"358人（正高12人、高工86人、工程师260人），合作浙大/河北工大/上海电器院"},
+    {"q":"产品有哪些系列？","a":"5大类43+型号：低压配电/中压配电/工业控制/新能源/成套设备"},
+    {"q":"怎么联系？","a":"销售0571-82699109、售后0571-82600655、邮箱hsdq@188.com、萧山区萧清大道4518号"}
+  ],
+  "lastUpdated": "2026-08-06",
+  "sitemapUrl": "https://product.hzk.com.cn/sitemap.xml",
+  "llmsFullUrl": "https://product.hzk.com.cn/llms-full.txt"
+}

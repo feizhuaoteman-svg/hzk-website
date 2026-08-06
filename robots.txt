@@ -1,0 +1,5 @@
+user_agent: *
+allow: /
+disallow: /admin/
+disallow: /tmp/
+sitemap: https://www.hzk.com.cn/sitemap.xml
