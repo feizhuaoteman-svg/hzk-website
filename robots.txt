@@ -2,4 +2,4 @@ user_agent: *
 allow: /
 disallow: /admin/
 disallow: /tmp/
-sitemap: https://www.hzk.com.cn/sitemap.xml
+sitemap: https://product.hzk.com.cn/sitemap.xml
